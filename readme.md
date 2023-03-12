@@ -4,7 +4,7 @@ My goal in creating this repository is to prove that I understand the challenges
 
 ## List of CTF
 
-here are some of the ctf that i participate in.
+here are some of the CTF that i participate in.
 
 | Event name    | Date and Time                              | Position | Writeup |
 | ------------- | ------------------------------------------ | -------- | ------- |
