@@ -7,4 +7,5 @@ Here are some of the challenge that we finish
 | category | Challenge |
 | ------------ | ------------ |
 | Osint | Miss Bardot |
+| Osint | CMTV Depression |
 | tambahin | tambahin |
